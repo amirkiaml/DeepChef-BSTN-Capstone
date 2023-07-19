@@ -1,0 +1,8 @@
+BasicCleanData.parquet
+
+.ipynb_checkpoints/
+.ipynb_checkpoints\ 
+
+*.csv
+*.pkl
+*.parquet
