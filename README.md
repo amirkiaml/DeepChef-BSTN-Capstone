@@ -58,4 +58,8 @@ I have deployed the recommender system from Notebooks 5 and 6 into an online int
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6). I hope to be able to scale the model in the near future.
 
 ## 💾 Datasets 
-The two original datasets I've worked with, the recipes dataset and the reviews dataset, can be directly accessed through Kaggle, at [this address](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews).  The recipes dataset has been significantly enhanced and augmented using newly scraped data (from Notebook 1), the reviews dataset and feature engineering. The enhanced dataset will soon be uploaded on Kaggle for public use.
+The two original datasets I've worked with, the recipes dataset and the reviews dataset, can be directly accessed through Kaggle.  The recipes dataset has been significantly enhanced and augmented using newly scraped data (from Notebook 1), the reviews dataset and feature engineering. The enhanced dataset will soon be uploaded on Kaggle for public use.
+
+- The original datasets from Kaggle can be found [here](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews).
+- The dataset used for creating the semantic recommendation system in Notebooks 5 and 6 can be downloaded from [here](https://www.dropbox.com/scl/fi/165kyme2d72iitpg1wbtd/recipes_with_ada_embeddings.pkl?rlkey=8331x1vqq7zjn6hov6mjw1srb&dl=1).
+- The dataset used for the streamlit app can be downloaded from [here](https://drive.google.com/uc?id=1Xu1s427Goe787gCjRysCj5SWb8psbFH6&export=download).
