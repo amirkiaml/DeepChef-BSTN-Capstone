@@ -19,7 +19,7 @@ Ideally, DeepChef offers a wide range of versatile use cases, catering to variou
 
 
 ## 🏗 Built With 
-- Selenium
+- selenium
 - jupyter
 - nltk
 - spacy
