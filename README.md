@@ -1,6 +1,8 @@
-# 2023 Capstone Project
-# DeepChef: A Modern Recipe Recommendation
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Logo.png" alt="DeepChef Logo" width="200" height="200" />
+</div>
 
+# DeepChef: A Modern Recipe Recommendation
 Amirhossein Kiani, Data Science Diploma Program @BrainStation
 
 ## Welcome to DeepChef!👨‍🍳🍟🍗
@@ -54,6 +56,8 @@ Please note that to focus on the primary notebooks, simply follow the numbered s
 
 ## 🎮 Streamlit app 
 I have deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
+
+<img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png" alt="DeepChef Logo" width="700" height="550" />
 
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6). I hope to be able to scale the model in the near future.
 
