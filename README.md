@@ -51,6 +51,7 @@ The project is composed of 6 Jupyter Notebooks and a few supplementary files:
 - (Supplementary Folder) 'Streamlit': contains the Python scripts and requirements file for the Streamlit app
 - (Supplementary File 1) 'docs_and_topics_300.html': contains Bertopic's interactive topic visualization for 300 topics
 - (Supplementary File 2) 'intertopic_dist_map.html': contains Bertopic's interactive intertopic visualization for 300 topics
+- (Supplementary File 3) 'Final_Report.pdf': contains the final report of the project
 
 Please note that to focus on the primary notebooks, simply follow the numbered sequence (Part 1, Part 2, etc.) for a streamlined experience without any distractions. All Jupyter notebooks have markdown introductions, table of contents, and commented codes for higher readability.
 
