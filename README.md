@@ -19,21 +19,22 @@ Ideally, DeepChef offers a wide range of versatile use cases, catering to variou
 
 
 ## 🏗 Built With 
-- selenium
+- bertopic
+- gdown
 - jupyter
-- nltk
 - spacy
-- numpy
 - pandas
 - openai
-- bertopic
 - re
 - requests
 - scikit-learn
 - matplotlib
+- nltk
+- numpy
 - seaborn
+- selenium
 - streamlit
-tiktoken
+- tiktoken
 - umap
 - wordcloud
   
