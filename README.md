@@ -59,7 +59,9 @@ Please note that to focus on the primary notebooks, simply follow the numbered s
 ## 🎮 Streamlit app 
 I have deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
 
-<img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png" alt="DeepChef Logo" width="700" height="550" />
+Check out a demo video on DeepChef:
+
+https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694
 
 ### 🔭 Limitations and Extensions
 
