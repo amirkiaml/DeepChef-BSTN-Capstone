@@ -61,7 +61,8 @@ I have deployed the recommender system from Notebooks 5 and 6 into an online int
 
 Check out a demo video on DeepChef:
 
-https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694
+<!-- [![DeepChef](https://drive.google.com/uc?id=1vLItXqQDOEdFYyEd0Egnf6fkW8HXHo8x)](https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694)-->
+https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694 
 
 ### 🔭 Limitations and Extensions
 
