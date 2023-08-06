@@ -5,7 +5,7 @@
 # DeepChef: A Modern Recipe Recommendation
 Amirhossein Kiani, Data Science Diploma Program @BrainStation
 
-## 🍗🍟👨‍🍳 Welcome to DeepChef!👨‍🍳🍟🍗
+## 👨‍🍳 Welcome to DeepChef!👨‍🍳
 
 This project harnesses the power of Natural Language Processing (NLP) and unsupervised machine learning techniques to deliver a unique, user-centric recipe recommendation experience. By allowing users to input their desired prompts, DeepChef suggests recipes that best match their preferences, elevating personalization and user engagement. Dive into the repository to explore the inner workings of this system and discover its potential!
 
