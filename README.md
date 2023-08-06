@@ -14,7 +14,7 @@ Ideally, DeepChef offers a wide range of versatile use cases, catering to variou
 
 - **Personalized recipe recommendations:** Users could input their desired recipe ingredients, instructions or themes to receive recipe recommendations tailored to their tastes. This could help users discover new recipes that they might not have otherwise found and could enhance their overall culinary experience.
 - **Cooking with Leftovers:** Users can input leftover ingredients, and the recommender can suggest creative ways to use them in new recipes.
-- **Cuisine Exploration:** Users can input ingredients and flavors from different cuisines they want to explore, and the recommender can suggest authentic recipes from those cuisines.
+- **Cuisine exploration:** Users can input ingredients and flavors from different cuisines they want to explore, and the recommender can suggest authentic recipes from those cuisines.
 - **Content recommendation** for cooking websites: cooking websites could integrate and fully develop DeepChef to complement their recommendation systems, offering users recipe suggestions based on specific recipe preferences or cuisines. This could enhance user satisfaction and engagement, and ultimately drive more views and revenue for these websites.
 
 
